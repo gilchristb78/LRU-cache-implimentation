@@ -1,5 +1,5 @@
 # LRU-cache-implimentation
-Creation of an LRU cache in Java. Created for WPI 2103.
+Creation of an LRU cache in Java. Created for WPI CS2103.
 
 In this Project a LRU cache was implimented and encapsulated in java along with custom written test cases. the assignment is listed here:
 
